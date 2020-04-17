@@ -317,7 +317,7 @@ input[type=button] {
 /* Features */
 
 .features {
-  background: url('../img/unplugged-retreat-features.jpg');
+  background: url('../img/features-background.jpg');
   background-size: cover;
   background-position: center;
   display: flex;
@@ -396,14 +396,6 @@ input[type=button] {
     position: absolute; 
     top: 0; 
     left: 0; 
-}
-
-.contact {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-flow: row wrap;
-  background-color: #2a423a;
 }
 
 .contact-section {
